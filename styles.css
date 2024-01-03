@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.main-container {
+    max-width: 1200px; /* Adjust the value as needed */
+    margin: 0 auto;   /* Center the container horizontally */
+}
+
+/* Mobile Layout */
+@media (max-width: 767px) {
+    /* Customize styles for mobile devices here */
+}
+
+/* Tablet Layout */
+@media (min-width: 768px) and (max-width: 991px) {
+    /* Customize styles for tablets here */
+}
+
+/* Desktop Layout */
+@media (min-width: 992px) {
+    /* Customize styles for desktops here */
+}
+
+/* Add any additional CSS rules as needed for styling */
